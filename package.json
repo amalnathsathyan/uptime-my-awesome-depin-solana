@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "uptime-depin-solana",
   "private": true,
   "scripts": {
     "build": "turbo run build",
